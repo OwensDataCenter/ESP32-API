@@ -1,0 +1,2 @@
+Compatible Boards
+Heltec Wi-Fi LoRa 32
