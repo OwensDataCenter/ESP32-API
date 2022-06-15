@@ -1,2 +1,3 @@
 Compatible Boards
 Heltec Wi-Fi LoRa 32
+NodeMCU-32S
